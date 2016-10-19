@@ -45,6 +45,10 @@ ObjectMapper is a framework written in Swift that makes it easy for you to conve
 ###[Realm Swift ](https://realm.io/docs/swift/latest/#installation)
 Realm Swift enables you to efficiently write your app’s model layer in a safe, persisted and fast way
 
+###[SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+A type-safe, Swift-language layer over SQLite3.
+SQLite.swift provides compile-time confidence in SQL statement syntax and intent.
+
 ## Pub/Sub
 
 
