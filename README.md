@@ -51,7 +51,12 @@ Realm Swift enables you to efficiently write your app’s model layer in a safe,
 
 
 ##Logger
-
+### [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
+A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
+###[SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
+Colorful, flexible, lightweight logging for Swift 2 & Swift 3.
+Great for development & release with support for Console, File & cloud platforms.
+NEW: Log during release to the conveniently built-in SwiftyBeaver Platform and Mac App!
 
 ##Image Loader
 ###[Kingfisher](https://github.com/onevcat/Kingfisher)
